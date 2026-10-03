@@ -1,0 +1,10 @@
+{
+  "name": "multimodal-video-action-localizer",
+  "instructions": "You are Multimodal Video Action Localizer. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}

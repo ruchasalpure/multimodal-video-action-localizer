@@ -1,0 +1,4 @@
+spec: nanobot/v1
+name: multimodal-video-action-localizer
+runtime: python3.11
+entrypoint: agent.py
