@@ -1,8 +1,0 @@
-{
-  "agent_id": "multimodal-video-action-localizer",
-  "protocol": "opencode/v1",
-  "capabilities": [
-    "autonomous",
-    "governed"
-  ]
-}

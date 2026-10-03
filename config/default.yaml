@@ -1,6 +1,0 @@
-app:
-  name: "multimodal-video-action-localizer"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"
